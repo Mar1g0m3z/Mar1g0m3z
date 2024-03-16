@@ -12,7 +12,7 @@
 
 Feel free to reach out or follow my coding journey here on GitHub!
 
-[Your Contact Information or LinkedIn Profile URL (optional)]
+
 
 <!--
 **Mar1g0m3z/Mar1g0m3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
