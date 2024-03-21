@@ -1,3 +1,6 @@
+![banner](![image](https://github.com/Mar1g0m3z/Mar1g0m3z/assets/124327569/745c7a8c-4d4c-436c-881d-cc5d1e2b13ad)
+)
+
 ### Hi there 👋
 
 👋 Hi, I'm Marisela! From the dynamic world of social services as a Domestic Victim Advocate and correctional officer, I've transitioned into the logical and creative realm of software engineering. My journey through App Academy honed my skills in full-stack development, with a keen focus on JavaScript, React, Node.js, and SQL, igniting a perpetual love for learning and problem-solving.
