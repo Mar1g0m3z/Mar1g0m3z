@@ -1,7 +1,9 @@
-![alt text](https://www.canva.com/design/DAF__Spq5uE/Nl-_3BappHScezlMsyVI4g/view?utm_content=DAF__Spq5uE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-### Hi there 👋
 
-👋 Hi, I'm Marisela! From the dynamic world of social services as a Domestic Victim Advocate and correctional officer, I've transitioned into the logical and creative realm of software engineering. My journey through App Academy honed my skills in full-stack development, with a keen focus on JavaScript, React, Node.js, and SQL, igniting a perpetual love for learning and problem-solving.
+![Pastel Rainbow Block LinkedIn Banner](https://github.com/Mar1g0m3z/Mar1g0m3z/assets/124327569/ffd84572-a720-4613-91f4-8bfa437ba9bb)
+
+
+###👋 Hi, I'm Marisela!
+From the dynamic world of social services as a Domestic Victim Advocate and correctional officer, I've transitioned into the logical and creative realm of software engineering. My journey through App Academy honed my skills in full-stack development, with a keen focus on JavaScript, React, Node.js, and SQL, igniting a perpetual love for learning and problem-solving.
 
 🌐 I thrive on turning complex problems into elegant, user-centric solutions. My background has instilled in me not only technical proficiency but also invaluable soft skills like effective communication, empathetic leadership, and adaptability. These experiences make me a collaborative and resilient developer, ready to tackle challenges and contribute positively to any team.
 
