@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I'm Marisela!
-From the dynamic world of social services as a Domestic Victim Advocate and correctional officer, I've transitioned into the logical and creative realm of software engineering. My journey through App Academy honed my skills in full-stack development, with a keen focus on JavaScript, React, Node.js, and SQL, igniting a perpetual love for learning and problem-solving.
+From the dynamic world of social services as a Domestic Victim Advocate and correctional officer, I've transitioned into the logical and creative realm of software engineering. My journey through self honed my skills in full-stack development, with a keen focus on JavaScript, React, Node.js, and SQL, igniting a perpetual love for learning and problem-solving.
 
 🌐 I thrive on turning complex problems into elegant, user-centric solutions. My background has instilled in me not only technical proficiency but also invaluable soft skills like effective communication, empathetic leadership, and adaptability. These experiences make me a collaborative and resilient developer, ready to tackle challenges and contribute positively to any team.
 
